@@ -1,0 +1,3 @@
+#This is a first test on getting to now GIT better in my AFEC course
+
+...
