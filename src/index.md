@@ -1,7 +1,9 @@
 ---
-title: "Hey there hi I'm ready to ..."
+
+title: 'Me working for classes be like'
+
+layout: 'layouts/home.html'
+
 ---
 
-# {{title}}
-
-Yes.
+![yeet](/img/logo.jpg)
